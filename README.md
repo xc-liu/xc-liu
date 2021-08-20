@@ -1,5 +1,13 @@
 ### Hi there, I am Xuecong Liu 👋
 
+[<img align="left" alt="xuecong sabrina | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="xuecong sabrina | Gmail" width="22px" src="./gmail.svg" /><br>][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/xuecong-liu
+[gmail]: xuecongliu97@gmail.com
+
+
+
 Hi! I'm Xuecong, and some of you know me as Sabrina. I am a master's student in Machine Learning at KTH Royal Institute of Technology in Sweden, currently on an exchange study at Politecnico di Milano! I have a backgroud in physics and have research experience in astrophysics, using neural networks to find the equation of states of compact stars. 🌌
 
 👩‍💻 I'm working on outside-vehicle air quality prediction at [CabinAir](https://cabinair.com/en/), [BlueAir](https://www.blueair.com/). In my spare time, I work on NLP projects (text summarisation, etc.) at [Riedia](http://www.riedia.com/), a news startup, as a co-founder and Machine Learning engineer. We stive to provide summarised, fact-checked, and personalised news for readers.
