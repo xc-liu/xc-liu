@@ -8,9 +8,9 @@
 
 
 
-Hi! I'm Xuecong, and some of you know me as Sabrina. I'm currently a data analyst at the [Babyshop Group](https://career.babyshopgroup.com/). 
+Hi! I'm Xuecong, and some of you know me as Sabrina.
 
-Ex-physicist, Machine Learning graduate from KTH, and co-founder at [Riedia](http://www.riedia.com/) (an AI-powered news startup, now closed). 
+Ex-physicist, Machine Learning graduate from KTH, and co-founder at [Riedia](http://www.riedia.com/) (an AI-powered news startup, now closed). Also worked as a data analyst/scientist at the [Babyshop Group](https://career.babyshopgroup.com/). 
 
 <!--
 **xc-liu/xc-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
